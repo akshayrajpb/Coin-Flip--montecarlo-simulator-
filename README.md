@@ -3,7 +3,7 @@ Perform a Monte Carlo simulation in Python. The Monte Carlo method is an approac
 
 Goals:
 
--Perform a Monte Carlo simulation in Python.
+  - Perform a Monte Carlo simulation in Python.
 
--Learn how to implement Artificial Neural Networks in Python.
+  - Learn how to implement Artificial Neural Networks in Python.
 
